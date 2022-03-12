@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parstagram</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">PO3FQCpd71PD304ud5oqjizTcvGoWt58LlSR2nyB</string>
+    <string name="back4app_client_key">8hhFDiDzgSXdyi7E6DFM9tj1ipGlhR01HuqQMVHJ</string>
+</resources>
